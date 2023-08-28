@@ -10,11 +10,11 @@ I’m Peter Abbondanzo, and I develop web and mobile applications. I'm an alumni
 
 ## Links
 
-- https://github.com/Abbondanzo/
-- https://abbondanzo.com/
-- https://www.linkedin.com/in/pabbondanzo/
+- [https://github.com/Abbondanzo/](https://github.com/Abbondanzo/)
+- [https://abbondanzo.com/](https://abbondanzo.com/)
+- [https://www.linkedin.com/in/pabbondanzo/](https://www.linkedin.com/in/pabbondanzo/)
 
 ### GitHub Pages
 
-- https://abbondanzo.github.io/HyperDrive/
-- https://abbondanzo.github.io/peloton-reservations/
+- [https://abbondanzo.github.io/HyperDrive/](https://abbondanzo.github.io/HyperDrive/)
+- [https://abbondanzo.github.io/peloton-reservations/](https://abbondanzo.github.io/peloton-reservations/)
