@@ -1,7 +1,7 @@
 # abbondanzo.github.io
 
 <p align="center">
-  <img width="900" height="auto" src="https://github.com/Abbondanzo/Abbondanzo/blob/master/header.png">
+  <img width="900" height="auto" src="https://raw.githubusercontent.com/Abbondanzo/Abbondanzo/master/header.png">
 </p>
 
 ### Hi there 👋
