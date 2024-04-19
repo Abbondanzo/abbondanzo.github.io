@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I’m Peter Abbondanzo, and I develop web and mobile applications. I'm an alumni of [Northeastern University](http://www.northeastern.edu/) up in Boston, Massachusetts. I’ve got a passion for building weird things and drinking lots of coffee. I also work for this fantastic company called [HubSpot](https://hubspot.com) over in Cambridge.
+I’m Peter Abbondanzo, and I develop web and mobile applications. I'm an alumni of [Northeastern University](http://www.northeastern.edu/) up in Boston, Massachusetts. I’ve got a passion for building weird things and drinking lots of coffee.
 
 ## Links
 
